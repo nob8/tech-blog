@@ -1,4 +1,2 @@
----
-title: Welcome to my blog
----
-
+# Doing things with software
+One day, there might be content here!
